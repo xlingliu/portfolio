@@ -10,5 +10,3 @@ I've had quite some experience with data visualization before this course. And I
 # Portfolio
 This is where the cool stuff begins!
 
-# 
-<div class="flourish-embed flourish-chart" data-src="visualisation/12550668"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
