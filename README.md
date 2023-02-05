@@ -8,3 +8,4 @@ I've had quite some experience with data visualization before this course. And I
 
 # Portfolio
 [Visualizing government debt](/vizgovdebt.md)
+[Critique by Design](/CritiquebyDesign.md.md)
