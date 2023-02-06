@@ -5,7 +5,6 @@
 <br>This platform brings together dozens of datasets to let users easily search, analyze and compare countries’ climate progress and commitments under the Paris Agreement.</p>
 <iframe src="https://www.climatewatchdata.org/embed/agriculture-emission?emissionsCountry=USA" frameborder="0" style="height: 600px; width: 1230px"></iframe>
 
-<!-- ![emission_whole](https://user-images.githubusercontent.com/108026577/216832564-3b13b259-acee-4b1e-8d0f-1a17f2d71970.png) -->
 
 # Critique the data visualization
 <p>At the first glance of this visualization, I get informed on the data trend over years which is displayed in a very clear and eye-catching way without any redundant or unnecessary components around it distracting the audiences. Instead of static visualizations, this whole website is more of an interactive one which the audiences can play around with, that means the engagement from the audience may be higher. For example, when you mouse over each vertex on the trend line, it will show you the year as well as the amount of agriculture emission(i.e. time and data).</p>
