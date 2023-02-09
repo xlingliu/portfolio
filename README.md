@@ -10,3 +10,5 @@ I've had quite some experience with data visualization before this course. And I
 [Visualizing government debt](/vizgovdebt.md)
 <br>
 [Critique by Design](/critiquebyDesign.md)
+<br>
+[Final project](/final_project.md)
