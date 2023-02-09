@@ -2,13 +2,13 @@
 
 <h3>Data Source</h3>
 US agriculture production:
-https://www.fao.org/faostat/en/#data/QCL
+<a href="https://www.fao.org/faostat/en/#data/QCL">https://www.fao.org/faostat/en/#data/QCL</a>
 [FAOSTAT_data_production_us_10-20.csv](/FAOSTAT_data_production_us_10-20.csv)
 US agriculture trade:
-https://www.fao.org/faostat/en/#data/TCL
+<a href="https://www.fao.org/faostat/en/#data/TCL">https://www.fao.org/faostat/en/#data/TCL</a>
 [FAOSTAT_data_trade_us_10-20.csv](/FAOSTAT_data_trade_us_10-20.csv)
 US agriculture trade with China:
-https://www.fao.org/faostat/en/#data/TM
+<a href = "https://www.fao.org/faostat/en/#data/TM">https://www.fao.org/faostat/en/#data/TM</a>
 [FAOSTAT_data_us_china_trade.csv](/FAOSTAT_data_us_china_trade.csv)
 
 <h3>US production on Crops and Livestock Products</h3>
