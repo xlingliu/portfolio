@@ -12,9 +12,18 @@ Crop and livestock statistics are recorded for 278 products, covering the follow
 
 <h3>US trade on Crops and Livestock Products</h3>
 The food and agricultural trade dataset is collected, processed and disseminated by FAO according to the standard International Merchandise Trade Statistics (IMTS) Methodology. The database includes the following variables: export quantity, export value, import quantity, and import value.
-<h4>The 5 most imported livestock products in the US from 2010 to 2020</h4>
+<h4>The 5 most imported crops and livestock products in the US from 2010 to 2020</h4>
 ![IMG_88243213C7DF-1](https://user-images.githubusercontent.com/108026577/217674512-f26a36df-51cb-4876-a9f2-3692d1956643.jpeg)
-<h4>The 5 most exported livestock products in the US from 2010 to 2020</h4>
+<h4>The 5 most exported crops and livestock products in the US from 2010 to 2020</h4>
+![IMG_88243213C7DF-1](https://user-images.githubusercontent.com/108026577/217674512-f26a36df-51cb-4876-a9f2-3692d1956643.jpeg)
+
+Now, we also want to explore the trade between the US and China.
+<h4>The 3 most imported crops and livestock products from China to US from 2010 to 2020</h4>
+![IMG_88243213C7DF-1](https://user-images.githubusercontent.com/108026577/217674512-f26a36df-51cb-4876-a9f2-3692d1956643.jpeg)
+<h4>The 3 most exported crops and livestock products from US to China from 2010 to 2020</h4>
+![IMG_EFCB0F188D1A-1](https://user-images.githubusercontent.com/108026577/217956663-94c49538-7b5b-4cdc-b8d1-2bbfe6d0d851.jpeg)
+
+<h3>Summary</h3>
 
 <h3>Method and Medium</h3>
 I plan to complete my final project using Shorthand.
