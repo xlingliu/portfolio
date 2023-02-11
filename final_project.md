@@ -1,3 +1,5 @@
+| [home page](https://xlingliu.github.io/portfolio/) | [visualizing debt](vizgovdebt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+<br>
 # US Production and Trade on Crops and Livestock Products
 
 <h3>Data Source</h3>
