@@ -1,4 +1,4 @@
-| [home page](https://xlingliu.github.io/portfolio/) | [visualizing debt](vizgovdebt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://xlingliu.github.io/portfolio/) | [Visualizing government debt](/vizgovdebt.md) | [Critique by Design](/critiquebyDesign.md)|
 <br>
 # US Production and Trade on Crops and Livestock Products
 
