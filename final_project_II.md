@@ -10,7 +10,7 @@ Link to Shorthand: https://preview.shorthand.com/W76TMzNnnJJqw0W7
 </br>Q1: What's your job? What do you do?
 </br>Q2: Are you familiar with US agriculture and agricultural trade?
 </br>Q3: After viewing the story board, did you feel confused about anything?
-</br>Q4: Did you learn something from the storyboard? What leveas you the biggest impression?
+</br>Q4: Did you learn something from the storyboard? What leaves you the biggest impression?
 # User research findings
 - Interview 1
 </br>
