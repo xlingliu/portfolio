@@ -11,4 +11,4 @@ I've had quite some experience with data visualization before this course. And I
 <br>
 [Critique by Design](/critiquebyDesign.md)
 <br>
-[Final project](/final_project.md)
+[Final project I](/final_project_I.md)
