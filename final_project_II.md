@@ -13,20 +13,24 @@ Link to Shorthand: https://preview.shorthand.com/W76TMzNnnJJqw0W7
 </br>Q4: Did you learn something from the storyboard? What leaves you the biggest impression?
 # User research findings
 Interview 1:
-</br>
 1. As a former government employee, I am now a student.</br>
 2. My answer would be no.</br>
 3. The way the graphs are presented is not visually pleasing, as the explanatory text overlaps the graphs. In a particular section, the background interferes with the readability of the text ("Our statistics come from Food and Agriculture Organization of the United Nations").</br>
 4. While I obtain some general information about agricultural products, the data does not convey a clear message or motivate me as a reader to take any specific action.</br>
+
 Interview 2:
 </br>
-Q1: I am in the program of Public Policy & Management(DC Track) at Heinz.</br>
-Q2: Yes I am familiar with this topic.</br>
-Q3: The data showing crops and livestock products in blue rectangles is not clear enough, I cannot tell which kind is the biggest nor the overall change.</br>
-Q4: The bar chart showing corns and other products and the China-U.S. trading products are very informative. But I think you should enlarge the fonts embedded in the circle for the China-U.S. data.</br>
+1. I am in the program of Public Policy & Management(DC Track) at Heinz.</br>
+2. Yes I am familiar with this topic.</br>
+3. The data showing crops and livestock products in blue rectangles is not clear enough, I cannot tell which kind is the biggest nor the overall change.</br>
+4. The bar chart showing corns and other products and the China-U.S. trading products are very informative. But I think you should enlarge the fonts embedded in the circle for the China-U.S. data.</br>
+
 Interview 3:
 </br>
 1. I am pursuing a doctoral degree in Education at Duesquene University.</br>
 2. No, I am not very familiar with this topic.</br>
 3. Instead of making the graphic as the background and the explanatory text overlapping the background, it is better to position the graph and the explanation in different columns (right and left for example).</br>
 4. Do not use a background that contains words, letters, or patterns (such as lines or shapes) as they will merge with the content and make it difficult to read the substance.</br>
+
+Changes to make:</br>
+Based on the feedback, I will change the visualization to present data in a more persuasive, informative and clearer way. 
