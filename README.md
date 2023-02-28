@@ -14,3 +14,5 @@ I've had quite some experience with data visualization before this course. And I
 [Final project I](/final_project_I.md)
 <br>
 [Final project II](/final_project_II.md)
+<br>
+[Final project III](/final_project_III.md)
