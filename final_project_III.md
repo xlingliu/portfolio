@@ -1,7 +1,7 @@
 | [home page](https://xlingliu.github.io/portfolio/) | [Visualizing government debt](/vizgovdebt.md) | [Critique by Design](/critiquebyDesign.md) | [Final project I](/final_project_I.md) | [Final project II](/final_project_II.md)|
 
 # The final data story
-<a href = "https://carnegiemellon.shorthandstories.com/us-agricultural-trade/index.html">https://carnegiemellon.shorthandstories.com/us-agricultural-trade/index.html</a>
+<a href = "https://carnegiemellon.shorthandstories.com/us-agricultural-trade-II/index.html">https://carnegiemellon.shorthandstories.com/us-agricultural-trade-II/index.html</a>
 
 # Changes made since Part II
 
